@@ -446,6 +446,15 @@ a.selectOn {font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
 	text-decoration: none;
 }
 
+hr
+{
+	color: #CCCCCC; 
+	background: #CCCCCC; 
+	border: 0; 
+	height: 1px; 
+	margin: 1em 0 2em;
+}
+
 
 
 
